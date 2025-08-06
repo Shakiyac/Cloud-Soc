@@ -50,6 +50,14 @@ mssql-auth-fail
 
 Metrics Before Hardening / Security Controls
 The following table shows the metrics we measured in our insecure environment for 24 hours: Start Time 2024-12-31 19:00:13 Stop Time 2024-12-31 19:00:13
+environment for 24 hours: Start Time 2024-12-31 19:00:13 Stop Time 2024-12-31 19:00:13
+
+Metric	Count
+SecurityEvent	51632
+Syslog	5789
+SecurityAlert	41
+SecurityIncident	336
+AzureNetworkAnalytics_CL	4473
 
 Metric	Count
 SecurityEvent	51632
